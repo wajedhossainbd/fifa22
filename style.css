@@ -4,3 +4,31 @@ body {
     font-family: 'Poppins', sans-serif;
 
 }
+
+header {
+    background-color: #161616;
+    width: 80%;
+    height: 646px;
+    border-radius: 30px;
+    margin: 50px 130px 10% 10%;
+
+}
+
+header h1 {
+    color: white;
+}
+
+header p {
+    color: white;
+}
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navigator li {
+    list-style: none;
+
+}
