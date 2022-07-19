@@ -23,12 +23,17 @@ header p {
 }
 
 .banner {
-    display: flex;
-    justify-content: space-between;
+    display: grid;
+    grid-template-columns: repeat(2, 1.2fr);
+    justify-content: center;
     align-items: center;
 }
 
 .navigator li {
     list-style: none;
 
+}
+
+.banner-header {
+    font-size: 4em;
 }
