@@ -31,6 +31,11 @@ Banner area Styles Starts
     align-items: center;
     margin: 0 auto;
     border-radius: 30px;
+    transition: 1s ease;
+}
+
+.banner-container:hover {
+    background-color: #001147;
 }
 
 .logo {
