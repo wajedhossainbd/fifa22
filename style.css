@@ -146,6 +146,18 @@ Main area Styles Starts
     align-items: center;
 }
 
+.fa-house {
+    margin-right: 10px;
+}
+
+.fa-calendar-days {
+    margin-right: 10px;
+}
+
+.fa-people-group {
+    margin-right: 10px;
+}
+
 .filter-button {
     display: block;
     color: #000;
